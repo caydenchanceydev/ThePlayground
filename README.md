@@ -11,5 +11,8 @@ My testing area for any and everything in Unity!
 ### Base Namespace:
 ExoDev.*
 
+### Naming Convention:
+AssetType_AssetName_AssetSubtype
+
 ### Packages Used:
 Odin Inspector <br>
